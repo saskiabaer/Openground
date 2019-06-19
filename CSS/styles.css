@@ -1,32 +1,7 @@
-h1 {
-  color: blue;
+body {
+  padding-top: 5rem;
 }
-
-#Box1, #Box2, #Box3, #Box4 {
-  border: 1px solid #9E9E9E;
-  padding: 20px;
-  color: ##CFD8DC;
-  font-size: 20px;
+.starter-template {
+  padding: 3rem 1.5rem;
   text-align: center;
-
-}
-
-#Box1 {
-  background-color: #E0F7FA;
-  border-color: ;
-}
-
-#Box2 {
-  background-color: #E0F7FA;
-  border-color: ;
-}
-
-#Box3 {
-  background-color: #E0F7FA;
-  border-color: ;
-}
-
-#Box4 {
-  background-color: #E0F7FA;
-  border-color: ;
 }
